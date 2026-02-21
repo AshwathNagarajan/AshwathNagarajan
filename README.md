@@ -66,14 +66,14 @@ My interest lies in NLP, scalable backend systems, and performance-driven softwa
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,cursor" />
 </p>
 
 ---
 
 # 🏆 Experience
 
-## 🥇 Smart India Hackathon 2025
+## 🚀 Smart India Hackathon 2025
 **Gamified Offline Learning Platform**
 
 ✔ Designed for rural students in low-network zones  
