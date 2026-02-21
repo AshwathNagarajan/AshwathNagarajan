@@ -66,7 +66,7 @@ My interest lies in NLP, scalable backend systems, and performance-driven softwa
 
 ### ⚙️ Tools
 <p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,antigravity" />
 </p>
 
 ---
