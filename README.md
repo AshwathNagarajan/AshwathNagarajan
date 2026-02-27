@@ -71,7 +71,7 @@ My interest lies in NLP, scalable backend systems, and performance-driven softwa
 
 ### 📊Data Science
 <p>
-<img src="https://skillicons.dev/icons?i=py,r,jupyter,tensorflow,pytorch,matlab,sklearn" />
+<img src="https://skillicons.dev/icons?i=py,r,pandas,numpy,tensorflow,pytorch,matlab,sklearn" />
 </p>
 
 ---
