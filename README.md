@@ -51,7 +51,7 @@ My interest lies in NLP, scalable backend systems, and performance-driven softwa
 
 ### 👨‍💻 Programming
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,c,R,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,r,javascript" />
 </p>
 
 ### 🌐 Web
