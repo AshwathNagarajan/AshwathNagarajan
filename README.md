@@ -61,7 +61,7 @@ My interest lies in NLP, scalable backend systems, and performance-driven softwa
 
 ### 🗄 Database
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 </p>
 
 ### ⚙️ Tools
