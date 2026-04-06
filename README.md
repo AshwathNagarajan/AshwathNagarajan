@@ -63,7 +63,7 @@
 <img src="https://skillicons.dev/icons?i=html,css,js,react" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,expressjs" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
