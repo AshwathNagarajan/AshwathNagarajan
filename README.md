@@ -1,173 +1,162 @@
-<!-- ====================== HEADER ====================== -->
+<!-- ================= HEADER ================= -->
 
-<h1 align="center">Hi 👋, I'm Ashwath Nagarajan</h1>
-<h3 align="center">AI/ML Engineer in Progress | Full Stack Developer | Offline-First System Builder</h3>
-
+<h1 align="center">Ashwath Nagarajan</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=00F7FF&size=24&center=true&vCenter=true&width=750&lines=Artificial+Intelligence+Student;NLP+Enthusiast;Full+Stack+Developer;Offline+AI+Builder;Smart+India+Hackathon+Participant;Building+Technology+for+Impact" />
+AI/ML Engineer in Progress • Full Stack Developer • Offline-First Builder
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AshwathNagarajan&label=Profile+Views&color=0e75b6&style=flat" />
-</p>
-
----
-
-<!-- ====================== QUICK BUTTONS ====================== -->
 
 <p align="center">
   <a href="mailto:ashwathnagarajan14@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-Email-red?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=flat-square&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/ashwath-nagarajan-ad31">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat-square&logo=linkedin"/>
   </a>
   <a href="https://leetcode.com/u/Ashwath_Nagarajan/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
+    <img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=flat-square&logo=leetcode"/>
   </a>
 </p>
 
 ---
 
-# 🚀 About Me
+## 🧑‍💻 About
 
-🎓 B.Tech Artificial Intelligence & Data Science  
-🏫 Kongu Engineering College (CGPA: 8.76)  
-📍 Tamil Nadu, India  
+- 🎓 B.Tech AI & Data Science — Kongu Engineering College  
+- 📍 Tamil Nadu, India  
+- 💡 Building **AI systems for low-resource environments**  
+- ⚡ Focused on **NLP, Backend Systems, and Performance Optimization**
 
-💡 I build **AI-powered systems optimized for low-resource environments**.  
-My interest lies in NLP, scalable backend systems, and performance-driven software design.
+---
 
-### 🧠 Core Focus Areas
+## 🧠 Core Interests
+
 - Natural Language Processing (Offline AI)
-- Full Stack Web Development
+- Full Stack Development (React + FastAPI)
+- Scalable Backend Systems
+- Edge AI / Low-Spec Optimization
 - Educational Technology Systems
-- Performance Optimization (C/C++)
-- AI Deployment for Low-Spec Devices
 
 ---
 
-# 🛠 Tech Stack
+## 🛠 Tech Stack
 
-### 👨‍💻 Programming
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,c,r,javascript" />
-</p>
+### Languages
+`Python` `C` `Java` `R` `JavaScript`
 
-### 🌐 Web
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js" />
-</p>
+### Web
+`HTML` `CSS` `React` `Node.js`
 
-### 🗄 Database
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
-</p>
+### Backend & DB
+`FastAPI` `PostgreSQL` `MongoDB` `MySQL`
 
-### ⚙️ Tools
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea" />
-</p>
+### ML / Data
+`PyTorch` `TensorFlow` `Scikit-learn` `OpenCV`
 
-### 📊Data Science
-<p>
-<img src="https://skillicons.dev/icons?i=py,r,tensorflow,pytorch,matlab,sklearn" />
-</p>
+### Tools
+`Git` `GitHub` `VS Code`
 
 ---
 
-# 🏆 Experience
+## 💼 Experience
 
-## 🚀 Smart India Hackathon 2025
-**Gamified Offline Learning Platform**
+### 🚀 Smart India Hackathon Finalist (2025)
+- Built **offline-first gamified learning platform**
+- Designed for **rural low-network environments**
+- Implemented **multilingual quizzes + assessments**
+- Developed **teacher analytics dashboard**
 
-✔ Designed for rural students in low-network zones  
-✔ Optimized for low-spec devices  
-✔ Implemented multilingual gamified assessments  
-✔ Built teacher dashboard with progress analytics  
-
----
-
-# 💡 Featured Projects
-
-## 🧠 Smart AI Notes Summarizer
-- Offline NLP summarization engine
-- Automated quiz generation
-- Image & audio assisted learning
-- Simplified ELI5 explanations
-- Lightweight secure processing
+### 💻 Frontend Developer — Pranav Techy (2026)
+- Built **15+ reusable React components**
+- Improved dev speed using **Vite + HMR**
+- Optimized UI with modern tooling (ESLint, SWC)
 
 ---
 
-## 🔍 Plagiarism Checker (C)
-- Hash table based similarity comparison
-- Memory-efficient design
-- Fast string processing algorithms
-- Console-based academic evaluation tool
+## 💡 Projects
+
+### 🧠 AI Notes Summarizer
+- Offline NLP-based summarization engine  
+- Quiz generation + multimedia learning  
+- Lightweight and secure processing  
+
+### 🐄 Cattle Breed Prediction
+- YOLOv8 based detection system  
+- FastAPI + PostgreSQL backend  
+- Scalable React frontend  
+
+### 🎮 Gamified Learning Platform
+- Offline-first educational system  
+- Optimized for low-spec devices  
+- Focused on accessibility and engagement  
 
 ---
 
-# 📊 GitHub Analytics
+## 📊 GitHub Insights
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathNagarajan&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&show_icons=true&theme=tokyonight" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathNagarajan&theme=tokyonight" height="160"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathNagarajan&layout=compact&theme=tokyonight" height="170"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwathNagarajan&theme=tokyonight"/>
 </p>
-
----
-
-# 📈 Contribution Heatmap
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&theme=tokyo-night" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshwathNagarajan&theme=tokyonight"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshwathNagarajan&theme=tokyonight"/>
 </p>
 
 ---
 
-# 🏅 GitHub Trophies
+## 📈 Contribution Graph
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AshwathNagarajan&theme=tokyonight&row=1&column=6"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&theme=tokyo-night"/>
 </p>
 
 ---
 
-# 🧠 LeetCode Stats
+## 🧠 LeetCode
 
 <p align="center">
-  <img src="https://leetcard.jacoblin.cool/Ashwath_Nagarajan?theme=dark&font=baloo&ext=heatmap" />
+  <img src="https://leetcard.jacoblin.cool/Ashwath_Nagarajan?theme=dark&ext=heatmap"/>
 </p>
 
 ---
 
-# 📜 Certifications
+## 🏆 Achievements
+
+- 🥇 1st Prize — Hybrid Coding Streak  
+- 🥈 Runner Up — Thinkathon 2K26  
+- 🥈 Runner Up — Eareyse 2K26  
+- 🎯 SIH Finalist / Waitlist  
+
+---
+
+## 📜 Certifications
 
 - IBM Generative AI  
-- Advanced C – College Certified  
-- Data Processing & Visualization – NASSCOM  
-- Digital Applications Fundamentals – NASSCOM  
+- NASSCOM Data Processing & Visualization  
+- Infosys JavaScript  
 
 ---
 
-# 👨‍💼 Leadership
+## 👨‍💼 Leadership
 
-- Student Project Co-Ordinator  
-- Executive Member – Cloud User Group, KEC  
-- NSS Member – KEC  
-
----
-
-# ⚡ Currently Exploring
-
-- AI Model Optimization for Edge Systems  
-- FastAPI Backend Integration  
-- MongoDB Authentication Systems  
-- Scalable AI Deployment Architectures  
+- Student Project Coordinator  
+- Executive Member — Cloud User Group  
+- NSS Member  
 
 ---
 
-<h3 align="center">⭐ Open to AI/ML Internships | Research Collaborations | Full Stack Projects ⭐</h3>
+## ⚡ Currently Exploring
+
+- Edge AI Optimization  
+- FastAPI Scalable Systems  
+- AI Deployment Architectures  
+- Backend Authentication Systems  
+
+---
+
+<h3 align="center">Open to Internships • Research • Full Stack & AI Projects</h3>
