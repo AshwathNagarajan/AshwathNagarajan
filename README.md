@@ -3,7 +3,7 @@
 <h1 align="center">Ashwath Nagarajan</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;Full+Stack+Developer;Offline-First+System+Builder;Building+Technology+for+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;FARM+Stack+Developer;Offline-First+System+Builder;Building+Technology+for+Impact" />
 </p>
 
 <p align="center">
@@ -46,7 +46,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/NLP-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Offline%20AI-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full%20Stack-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EdTech-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Performance-0f172a?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Edge%20AI-1e293b?style=for-the-badge" />
@@ -68,11 +68,11 @@
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
 
-### ML / Data
+### ML / Data Science
 <img src="https://skillicons.dev/icons?i=py,tensorflow,pytorch,sklearn" />
 
 ### Tools
-<img src="https://skillicons.dev/icons?i=git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode,canva" />
 
 ---
 
