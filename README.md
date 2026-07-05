@@ -49,7 +49,7 @@
   <img src="https://img.shields.io/badge/FastAPI-1e293b?style=for-the-badge" />
   <img src="https://img.shields.io/badge/EdTech-111827?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Performance-0f172a?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Edge%20AI-1e293b?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gen%20AI-1e293b?style=for-the-badge" />
 </p>
 
 ---
