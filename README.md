@@ -60,10 +60,10 @@
 <img src="https://skillicons.dev/icons?i=python,java,c,r,javascript" />
 
 ### Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs" />
 
 ### Backend
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,expressjs" />
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,spring" />
 
 ### Databases
 <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql" />
