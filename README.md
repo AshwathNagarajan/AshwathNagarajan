@@ -29,64 +29,134 @@
 <tr>
 <td width="55%" valign="top">
 
-## Developer Profile
+---
 
-```yaml
-name: Ashwath Nagarajan
-location: Tirupur, Tamil Nadu
+## Developer Snapshot
 
-roles:
-  - AI/ML Developer
-  - Full-Stack Developer
-  - Data Science Enthusiast
+<table>
+<tr>
 
-focus:
-  - Machine Learning
-  - Computer Vision
-  - Data Analytics
-  - Data Engineering
-  - Natural Language Processing
+<td width="25%" align="center">
 
-qualities:
-  - End-to-end development
-  - Practical problem solving
-  - Leadership
-  - Team coordination
-  - Performance optimization
-```
+<img src="https://img.icons8.com/fluency/96/artificial-intelligence.png" width="58" alt="AI Development"/>
+
+### AI & ML
+
+`Computer Vision`
+
+`NLP`
+
+`Model Integration`
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/source-code.png" width="58" alt="Full-Stack Development"/>
+
+### Full-Stack
+
+`React.js`
+
+`FastAPI`
+
+`MERN Stack`
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/database.png" width="58" alt="Data Engineering"/>
+
+### Data
+
+`Analytics`
+
+`Engineering`
+
+`Visualization`
+
+</td>
+
+<td width="25%" align="center">
+
+<img src="https://img.icons8.com/fluency/96/leadership.png" width="58" alt="Leadership"/>
+
+### Leadership
+
+`Coordination`
+
+`Teamwork`
+
+`Problem Solving`
+
+</td>
+
+</tr>
+</table>
+
+<br/>
+
+<table>
+<tr>
+
+<td width="55%" valign="top">
+
+### What I Build
+
+<img src="https://img.shields.io/badge/AI--Powered-Web%20Applications-111827?style=for-the-badge&logo=openai&logoColor=white" alt="AI Powered Applications"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Offline--First%20Learning%20Systems-F59E0B?style=for-the-badge&logo=googleclassroom&logoColor=white" alt="Offline Learning Systems"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Scalable%20Full--Stack%20Platforms-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full Stack Platforms"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Data--Driven%20Solutions-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Driven Solutions"/>
 
 </td>
 
 <td width="45%" valign="top">
 
-## Current Focus
+### Engineering Approach
 
-<p>
-  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Development"/>
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Data%20Engineering-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Engineering"/>
-</p>
+| | |
+|---|---|
+| <img src="https://img.icons8.com/fluency/48/goal.png" width="28" alt="Problem Solving"/> | Real-world problem solving |
+| <img src="https://img.icons8.com/fluency/48/module.png" width="28" alt="Architecture"/> | Modular architecture |
+| <img src="https://img.icons8.com/fluency/48/speed.png" width="28" alt="Performance"/> | Performance optimization |
+| <img src="https://img.icons8.com/fluency/48/design.png" width="28" alt="User Experience"/> | User-focused design |
+| <img src="https://img.icons8.com/fluency/48/available-updates.png" width="28" alt="Scalability"/> | Scalable implementation |
+| <img src="https://img.icons8.com/fluency/48/collaboration.png" width="28" alt="Collaboration"/> | Collaborative development |
 
 </td>
+
 </tr>
 </table>
 
----
+<br/>
 
+<div align="center">
+
+### Areas of Interest
+
+<img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+<img src="https://img.shields.io/badge/Data%20Analytics-F2C811?style=flat-square&logo=powerbi&logoColor=black" alt="Data Analytics"/>
+<img src="https://img.shields.io/badge/Data%20Engineering-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" alt="Data Engineering"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="Computer Vision"/>
+<img src="https://img.shields.io/badge/Natural%20Language%20Processing-3776AB?style=flat-square&logo=python&logoColor=white" alt="Natural Language Processing"/>
+
+</div>
+
+---
 ## Technology Stack
 
 ### Programming Languages
