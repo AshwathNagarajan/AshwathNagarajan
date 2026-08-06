@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="420" viewBox="0 0 1600 420" role="img" aria-labelledby="title desc">
+<title id="title">Ashwath Nagarajan dark profile banner</title>
+<desc id="desc">Dark technical banner for an AI ML and full-stack developer</desc>
+<rect width="1600" height="420" fill="#0d1117"/>
+<g fill="none" stroke="#30363d" stroke-width="2">
+<path d="M0 90 H300 L390 180 H620"/>
+<path d="M1600 80 H1320 L1220 180 H980"/>
+<path d="M0 335 H250 L350 250 H560"/>
+<path d="M1600 340 H1360 L1260 260 H1040"/>
+</g>
+<g fill="#58a6ff">
+<circle cx="300" cy="90" r="7"/><circle cx="390" cy="180" r="7"/><circle cx="1320" cy="80" r="7"/><circle cx="1220" cy="180" r="7"/>
+<circle cx="250" cy="335" r="7"/><circle cx="350" cy="250" r="7"/><circle cx="1360" cy="340" r="7"/><circle cx="1260" cy="260" r="7"/>
+</g>
+<text x="800" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="66" font-weight="700" fill="#f0f6fc">Ashwath Nagarajan</text>
+<text x="800" y="245" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="28" letter-spacing="5" fill="#8b949e">AI/ML AND FULL-STACK DEVELOPER</text>
+<rect x="585" y="285" width="430" height="4" rx="2" fill="#58a6ff"/>
+</svg>
