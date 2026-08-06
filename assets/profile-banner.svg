@@ -1,0 +1,60 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="430" viewBox="0 0 1600 430" role="img" aria-labelledby="title desc">
+<title id="title">Ashwath Nagarajan profile banner</title>
+<desc id="desc">Premium dark technical profile banner</desc>
+
+<defs>
+  <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+    <stop offset="0%" stop-color="#06080C"/>
+    <stop offset="55%" stop-color="#0D1117"/>
+    <stop offset="100%" stop-color="#111827"/>
+  </linearGradient>
+  <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+    <stop offset="0%" stop-color="#38BDF8" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.8"/>
+    <stop offset="100%" stop-color="#8B5CF6" stop-opacity="0"/>
+  </linearGradient>
+  <filter id="glow">
+    <feGaussianBlur stdDeviation="3.5" result="blur"/>
+    <feMerge>
+      <feMergeNode in="blur"/>
+      <feMergeNode in="SourceGraphic"/>
+    </feMerge>
+  </filter>
+</defs>
+
+<rect width="1600" height="430" fill="url(#bg)"/>
+
+<g opacity="0.18" stroke="#94A3B8" stroke-width="1">
+  <path d="M0 80 H300 L380 160 H640"/>
+  <path d="M1600 70 H1320 L1220 170 H980"/>
+  <path d="M0 350 H260 L360 270 H620"/>
+  <path d="M1600 350 H1350 L1240 270 H1000"/>
+</g>
+
+<g fill="#38BDF8" filter="url(#glow)">
+  <circle cx="300" cy="80" r="4"/>
+  <circle cx="380" cy="160" r="4"/>
+  <circle cx="1320" cy="70" r="4"/>
+  <circle cx="1220" cy="170" r="4"/>
+  <circle cx="260" cy="350" r="4"/>
+  <circle cx="360" cy="270" r="4"/>
+  <circle cx="1350" cy="350" r="4"/>
+  <circle cx="1240" cy="270" r="4"/>
+</g>
+
+<rect x="425" y="115" width="750" height="1.5" fill="url(#line)"/>
+
+<text x="800" y="208" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="70" font-weight="700" fill="#F8FAFC">
+Ashwath Nagarajan
+</text>
+
+<text x="800" y="268" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="25" letter-spacing="5" fill="#94A3B8">
+AI/ML AND FULL-STACK DEVELOPER
+</text>
+
+<text x="800" y="315" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" letter-spacing="2" fill="#64748B">
+COMPUTER VISION · NLP · WEB SYSTEMS · DATA
+</text>
+
+<rect x="585" y="350" width="430" height="3" rx="1.5" fill="url(#line)"/>
+</svg>
