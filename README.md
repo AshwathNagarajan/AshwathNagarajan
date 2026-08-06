@@ -1,64 +1,85 @@
-<!--
-  GitHub Profile README
-  Repository name: AshwathNagarajan
--->
-
 <div align="center">
 
 # Ashwath Nagarajan
 
 ### AI/ML Developer · Full-Stack Developer · Data Science Enthusiast
 
-<a href="https://github.com/AshwathNagarajan">
-  <img src="https://img.shields.io/badge/GitHub-AshwathNagarajan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Profile"/>
-</a>
-<a href="https://linkedin.com/in/ashwath-nagarajan">
-  <img src="https://img.shields.io/badge/LinkedIn-Ashwath%20Nagarajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Profile"/>
-</a>
-<a href="mailto:ashwathnagarajan14@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
+<p>
+  <a href="mailto:ashwathnagarajan14@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://www.linkedin.com/in/ashwath-nagarajan">
+    <img src="https://img.shields.io/badge/LinkedIn-Ashwath%20Nagarajan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://github.com/AshwathNagarajan">
+    <img src="https://img.shields.io/badge/GitHub-AshwathNagarajan-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+</p>
 
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=AshwathNagarajan&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views"/>
+<img
+  src="https://komarev.com/ghpvc/?username=AshwathNagarajan&style=flat-square&label=PROFILE+VIEWS"
+  alt="Profile Views"
+/>
 
 </div>
 
 ---
 
-## About Me
-
-I am an aspiring **Artificial Intelligence, Machine Learning, and Full-Stack Developer** with strong foundations in Python, JavaScript, data science, and modern web development.
-
-My experience spans the complete application-development lifecycle—from designing responsive user interfaces and building backend services to integrating databases, machine-learning models, computer-vision systems, local language models, and intelligent automation features.
-
-I am particularly interested in developing practical, scalable, and accessible technology that solves real-world problems across education, agriculture, computer vision, data analytics, and intelligent web applications.
-
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="55%" valign="top">
 
-### Development Focus
+## Developer Profile
 
-- Artificial Intelligence and Machine Learning
-- Full-stack web application development
-- Computer vision and object detection
-- Natural Language Processing
-- Data analytics and data engineering
-- Offline-first and accessible applications
+```yaml
+name: Ashwath Nagarajan
+location: Tirupur, Tamil Nadu
+
+roles:
+  - AI/ML Developer
+  - Full-Stack Developer
+  - Data Science Enthusiast
+
+focus:
+  - Machine Learning
+  - Computer Vision
+  - Data Analytics
+  - Data Engineering
+  - Natural Language Processing
+
+qualities:
+  - End-to-end development
+  - Practical problem solving
+  - Leadership
+  - Team coordination
+  - Performance optimization
+```
 
 </td>
-<td width="50%" valign="top">
 
-### Engineering Qualities
+<td width="45%" valign="top">
 
-- End-to-end application development
-- Modular and reusable architecture
-- Performance-oriented implementation
-- Problem-solving through experimentation
-- User-focused interface development
-- Leadership and team coordination
+## Current Focus
+
+<p>
+  <img src="https://img.shields.io/badge/Artificial%20Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" alt="Artificial Intelligence"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Development"/>
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Data%20Engineering-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Engineering"/>
+</p>
 
 </td>
 </tr>
@@ -66,146 +87,143 @@ I am particularly interested in developing practical, scalable, and accessible t
 
 ---
 
-## Technical Skills
+## Technology Stack
 
 ### Programming Languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=python,java,c,r" alt="Programming Languages"/>
-</p>
+<div align="center">
 
-| Language | Application Areas |
-|---|---|
-| **Python** | Artificial intelligence, machine learning, NLP, computer vision and backend development |
-| **Java** | Object-oriented programming and application development |
-| **C** | Programming fundamentals, algorithms and problem-solving |
-| **R** | Data analysis and statistical computing |
+<img src="https://skillicons.dev/icons?i=c,python,java,r,javascript" alt="Programming Languages"/>
+
+</div>
 
 ### Frontend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,vite" alt="Frontend Technologies"/>
-</p>
+<div align="center">
 
-- Responsive web interface development
-- Component-based architecture using React.js
-- Reusable and maintainable UI components
-- SVG-based interactive learning animations
-- Performance optimization for low-specification devices
-- Modern development workflows using Vite and Hot Module Replacement
+<img src="https://skillicons.dev/icons?i=html,css,javascript,react,vite" alt="Frontend Technologies"/>
+
+</div>
 
 ### Backend Development
 
-<p>
-  <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend Technologies"/>
-</p>
+<div align="center">
 
-- RESTful API development
-- FastAPI-based Python backend services
-- Node.js and Express.js application development
-- SMTP-based email integration
-- AI model and chatbot integration
-- Public and administrative interface management
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" alt="Backend Technologies"/>
+
+</div>
 
 ### Databases
 
-<p>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Database Technologies"/>
-</p>
+<div align="center">
 
-- Relational and NoSQL database integration
-- Content, enquiry, project and administrative data management
-- PostgreSQL-backed AI applications
-- MongoDB-backed MERN applications
-- Database-driven frontend and backend communication
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" alt="Databases"/>
+
+</div>
 
 ### AI, Machine Learning and Data Science
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
-</p>
+<div align="center">
 
-<p>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" alt="Keras"/>
-  <img src="https://img.shields.io/badge/YOLOv8-111F68?style=flat-square&logo=yolo&logoColor=white" alt="YOLOv8"/>
-  <img src="https://img.shields.io/badge/NLP-Natural%20Language%20Processing-4B8BBE?style=flat-square" alt="NLP"/>
-  <img src="https://img.shields.io/badge/Ollama-Local%20LLM-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
-</p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" alt="AI and Machine Learning Technologies"/>
 
-- Machine-learning model development and integration
-- YOLOv8-based computer-vision applications
-- Natural Language Processing and text summarization
-- Offline and lightweight AI model implementation
-- Data preprocessing, analysis and visualization
-- Model-backed application development
-- Local language-model integration
-- Multimedia-assisted quiz generation
+<br/><br/>
 
-### Tools and Development Workflow
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+<img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras"/>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=for-the-badge" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/NLP-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="NLP"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama"/>
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma" alt="Development Tools"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white" alt="Canva"/>
-  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white" alt="ESLint"/>
-</p>
+</div>
 
-- Git and GitHub-based version control
-- Code-quality management using ESLint
-- Modern React compilation using SWC and Babel-based plugins
-- Interface and visual-content design
-- Collaborative software-development workflows
+### Development Tools
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode" alt="Development Tools"/>
+
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Canva"/>
+<img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint"/>
+
+</div>
 
 ---
 
 ## Professional Experience
 
-### MERN Stack Developer Intern
+<table>
+<tr>
+<td width="18%" align="center">
 
-**Tekriq Technologies · Remote**  
-`April 2026 – July 2026`
+<img
+  src="https://cdn.simpleicons.org/react/61DAFB"
+  width="55"
+  alt="React"
+/>
 
-Developed a responsive full-stack web platform for an interior-design company using the JavaScript-based MERN stack.
+</td>
 
-#### Key Contributions
-
-- Developed separate **public-facing** and **administrative** interfaces.
-- Built backend services using **Node.js** and **Express.js**.
-- Integrated **MongoDB** to manage website content, enquiries, projects and administrative information.
-- Implemented an **SMTP-based email system** for handling customer enquiries.
-- Integrated a **Groq API-powered chatbot** to provide automated support to website visitors.
-- Contributed across frontend, backend, database and intelligent-assistance layers.
-
-#### Technologies
-
-<p>
-  <img src="https://skillicons.dev/icons?i=mongodb,express,react,nodejs,js" alt="MERN Stack"/>
-</p>
-
----
+<td width="62%">
 
 ### Frontend Developer Intern
 
-**Pranav Techy · Remote**  
-`January 2026 – March 2026`
+**Pranav Techy · Remote**
 
-Engineered a responsive React.js application using Vite and modern frontend-development practices.
+`React.js` `Vite` `ESLint` `SWC` `Babel`
 
-#### Key Contributions
+Built **15+ reusable components** for a responsive React application.
 
-- Built more than **15 reusable React UI components**.
-- Used **Vite** and Hot Module Replacement to improve development speed.
-- Designed modular components for maintainable and scalable frontend development.
-- Maintained code consistency and quality using **ESLint**.
-- Improved the development workflow using modern **SWC and Babel-based React plugins**.
-- Focused on application responsiveness, component reusability and performance.
+</td>
 
-#### Technologies
+<td width="20%" align="center">
 
-<p>
-  <img src="https://skillicons.dev/icons?i=react,vite,js,html,css" alt="Frontend Stack"/>
-</p>
+**Jan 2026**
+
+to
+
+**Mar 2026**
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+<img
+  src="https://cdn.simpleicons.org/mongodb/47A248"
+  width="55"
+  alt="MongoDB"
+/>
+
+</td>
+
+<td>
+
+### MERN Stack Developer Intern
+
+**Tekriq Technologies · Remote**
+
+`MongoDB` `Express.js` `React.js` `Node.js` `SMTP` `Groq API`
+
+Developed public and administrative interfaces for an interior-design platform.
+
+</td>
+
+<td align="center">
+
+**Apr 2026**
+
+to
+
+**Jul 2026**
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -213,150 +231,125 @@ Engineered a responsive React.js application using Vite and modern frontend-deve
 
 <table>
 <tr>
-<td width="50%" valign="top">
 
-### Cattle Breed Prediction System
+<td width="33%" valign="top" align="center">
 
-An AI-powered web application developed to detect and identify cattle breeds using computer vision.
+<img
+  src="https://cdn.simpleicons.org/opencv/5C3EE8"
+  width="58"
+  alt="Computer Vision"
+/>
 
-#### Core Features
+### Cattle Breed Prediction
 
-- YOLOv8-based cattle breed detection
-- FastAPI backend architecture
-- PostgreSQL database integration
-- Ollama-powered local intelligence
-- Scalable React.js frontend
-- Complete AI-to-web application workflow
-
-#### Technology Stack
-
-`YOLOv8` `FastAPI` `PostgreSQL` `React.js` `Ollama`
+AI-powered cattle breed detection.
 
 <br/>
 
-<a href="YOUR_CATTLE_BREED_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Cattle Breed Prediction Repository"/>
-</a>
+<img src="https://img.shields.io/badge/YOLOv8-111827?style=flat-square" alt="YOLOv8"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
+<img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
 
 </td>
-<td width="50%" valign="top">
+
+<td width="33%" valign="top" align="center">
+
+<img
+  src="https://cdn.simpleicons.org/python/3776AB"
+  width="58"
+  alt="Python"
+/>
 
 ### Smart AI Notes Summarizer
 
-An offline NLP-based learning system that transforms notes into concise summaries and interactive learning material.
-
-#### Core Features
-
-- Offline notes summarization
-- Lightweight NLP processing
-- Privacy-focused local execution
-- Automated quiz generation
-- Multimedia learning support
-- Efficient and secure information processing
-
-#### Technology Stack
-
-`React.js` `FastAPI` `NLP` `Python` `JavaScript`
+Offline summarization and quiz generation.
 
 <br/>
 
-<a href="YOUR_NOTES_SUMMARIZER_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Smart AI Notes Summarizer Repository"/>
-</a>
+<img src="https://img.shields.io/badge/NLP-3776AB?style=flat-square" alt="NLP"/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React"/>
 
 </td>
-</tr>
 
-<tr>
-<td width="50%" valign="top">
+<td width="33%" valign="top" align="center">
+
+<img
+  src="https://cdn.simpleicons.org/javascript/F7DF1E"
+  width="58"
+  alt="JavaScript"
+/>
 
 ### Gamified Learning Platform
 
-An offline-first educational platform designed to make learning accessible and engaging for children in rural communities.
-
-#### Core Features
-
-- Interactive SVG-based lessons
-- Educational games and quizzes
-- Offline-first application design
-- Optimized for low-specification devices
-- Suitable for areas with poor connectivity
-- Accessibility and learner-engagement focus
-
-#### Technology Stack
-
-`JavaScript` `HTML` `CSS` `SVG` `Offline-First Design`
+Offline-first rural learning platform.
 
 <br/>
 
-<a href="YOUR_GAMIFIED_LEARNING_REPOSITORY_URL">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="Gamified Learning Platform Repository"/>
-</a>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+<img src="https://img.shields.io/badge/SVG-FFB13B?style=flat-square&logo=svg&logoColor=black" alt="SVG"/>
 
 </td>
-<td width="50%" valign="top">
 
-### Project Engineering Approach
-
-My projects generally combine multiple layers of software engineering:
-
-- Problem identification and requirements analysis
-- User-interface and experience design
-- Backend API implementation
-- Database architecture and integration
-- AI or machine-learning model integration
-- Performance and accessibility optimization
-- Testing, iteration and deployment preparation
-
-<br/>
-
-<a href="https://github.com/AshwathNagarajan?tab=repositories">
-  <img src="https://img.shields.io/badge/Explore%20All%20Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Projects"/>
-</a>
-
-</td>
 </tr>
 </table>
 
 ---
 
-## Leadership and Responsibility
+## Leadership
 
 <table>
 <tr>
-<td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/228BE6/project-management.png" width="48" alt="Project Coordination Icon"/>
+<td width="33%" align="center">
+
+<img
+  src="https://img.icons8.com/ios-filled/80/4A90E2/project-management.png"
+  width="48"
+  alt="Project Coordinator"
+/>
 
 ### Student Project Coordinator
 
 `2025 – 2026`
 
-Coordinated student project activities, encouraged structured development and supported collaborative problem-solving.
-
 </td>
-<td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/228BE6/cloud.png" width="48" alt="Cloud Community Icon"/>
+<td width="33%" align="center">
 
-### Cloud User Groups Executive Member
+<img
+  src="https://img.icons8.com/ios-filled/80/4A90E2/cloud.png"
+  width="48"
+  alt="Cloud User Groups"
+/>
+
+### Executive Member
+
+**Cloud User Groups**
 
 `2025 – 2026`
 
-Contributed to technical-community activities, collaborative learning and student engagement.
-
 </td>
-<td align="center" width="33%">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/228BE6/source-code.png" width="48" alt="Coding Leadership Icon"/>
+<td width="33%" align="center">
+
+<img
+  src="https://img.icons8.com/ios-filled/80/4A90E2/source-code.png"
+  width="48"
+  alt="Coding Forum"
+/>
 
 ### Coding Forum Secretary
 
 `2026 – 2027`
 
-Supports the organization of coding initiatives, technical events and peer-learning activities.
-
 </td>
+
 </tr>
 </table>
 
@@ -364,37 +357,24 @@ Supports the organization of coding initiatives, technical events and peer-learn
 
 ## Certifications
 
-<table>
-<tr>
-<td width="33%" align="center">
+<div align="center">
 
-<img src="https://cdn.simpleicons.org/ibm/052FAD" width="45" alt="IBM Icon"/>
+<img
+  src="https://img.shields.io/badge/IBM-Generative%20AI-052FAD?style=for-the-badge&logo=ibm&logoColor=white"
+  alt="IBM Generative AI"
+/>
 
-### IBM Generative AI
+<img
+  src="https://img.shields.io/badge/NASSCOM-Data%20Processing%20%26%20Visualisation-111827?style=for-the-badge"
+  alt="NASSCOM Data Processing and Visualisation"
+/>
 
-Foundation and application concepts related to generative artificial intelligence.
+<img
+  src="https://img.shields.io/badge/Infosys-JavaScript-007CC3?style=for-the-badge&logo=infosys&logoColor=white"
+  alt="Infosys JavaScript"
+/>
 
-</td>
-<td width="33%" align="center">
-
-<img src="https://cdn.simpleicons.org/nasscom/000000" width="45" alt="NASSCOM Icon"/>
-
-### NASSCOM Data Processing and Visualisation
-
-Data preparation, processing, analysis and visual communication concepts.
-
-</td>
-<td width="33%" align="center">
-
-<img src="https://cdn.simpleicons.org/infosys/007CC3" width="45" alt="Infosys Icon"/>
-
-### Infosys JavaScript
-
-JavaScript programming and web-development fundamentals.
-
-</td>
-</tr>
-</table>
+</div>
 
 ---
 
@@ -402,105 +382,81 @@ JavaScript programming and web-development fundamentals.
 
 <table>
 <tr>
+
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/F4B400/trophy.png" width="52" alt="First Prize Icon"/>
+<img
+  src="https://img.icons8.com/ios-filled/80/FFD700/trophy.png"
+  width="52"
+  alt="First Prize"
+/>
 
 ### First Prize
 
 **Hybrid Coding Streak**
 
-Demonstrated strong coding ability, logical thinking and competitive problem-solving.
-
 </td>
+
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/A0A0A0/medal2.png" width="52" alt="Runner-Up Medal Icon"/>
+<img
+  src="https://img.icons8.com/ios-filled/80/C0C0C0/medal.png"
+  width="52"
+  alt="Runner-Up"
+/>
 
 ### Runner-Up
 
 **Thinkathon 2K26**
 
-Recognized for innovative thinking, solution design and effective idea presentation.
-
 </td>
+
 <td width="33%" align="center">
 
-<img src="https://img.icons8.com/fluency-systems-regular/64/A0A0A0/medal2.png" width="52" alt="Runner-Up Medal Icon"/>
+<img
+  src="https://img.icons8.com/ios-filled/80/C0C0C0/medal.png"
+  width="52"
+  alt="Runner-Up"
+/>
 
 ### Runner-Up
 
 **Eareyse 2K26**
 
-Recognized for technical creativity, teamwork and solution-oriented implementation.
-
 </td>
+
 </tr>
 </table>
 
 ---
 
-## Areas of Interest
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Data%20Analytics-02569B?style=for-the-badge&logo=googleanalytics&logoColor=white" alt="Data Analytics"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="Machine Learning"/>
-  <img src="https://img.shields.io/badge/Data%20Engineering-336791?style=for-the-badge&logo=apacheairflow&logoColor=white" alt="Data Engineering"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="Computer Vision"/>
-  <img src="https://img.shields.io/badge/Natural%20Language%20Processing-4B8BBE?style=for-the-badge&logo=python&logoColor=white" alt="Natural Language Processing"/>
-  <img src="https://img.shields.io/badge/Full--Stack%20Development-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Full-Stack Development"/>
-</p>
-
----
-
-## What I Bring to a Team
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### Technical Capabilities
-
-- Full-stack application development
-- AI and machine-learning integration
-- Computer-vision system development
-- Offline NLP application development
-- Database-backed API implementation
-- Responsive and reusable UI engineering
-- Performance-aware frontend development
-
-</td>
-<td width="50%" valign="top">
-
-### Professional Capabilities
-
-- Technical leadership and coordination
-- Collaborative problem-solving
-- Rapid learning and experimentation
-- User-centered product thinking
-- Structured project implementation
-- Clear separation of application concerns
-- Focus on practical real-world outcomes
-
-</td>
-</tr>
-</table>
-
----
-
-## GitHub Analytics
+## GitHub Statistics
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" alt="Ashwath's GitHub Statistics"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&show_icons=true&count_private=true&include_all_commits=true&hide_border=true"
+  alt="GitHub Statistics"
+/>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathNagarajan&layout=compact&hide_border=true&langs_count=8" alt="Most Used Languages"/>
+<img
+  width="49%"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathNagarajan&layout=compact&hide_border=true&langs_count=8"
+  alt="Most Used Languages"
+/>
 
 </div>
 
+<br/>
+
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathNagarajan&hide_border=true" alt="GitHub Contribution Streak"/>
+<img
+  width="70%"
+  src="https://streak-stats.demolab.com?user=AshwathNagarajan&hide_border=true"
+  alt="GitHub Contribution Streak"
+/>
 
 </div>
 
@@ -510,17 +466,27 @@ Recognized for technical creativity, teamwork and solution-oriented implementati
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&hide_border=true&area=true" width="95%" alt="GitHub Contribution Graph"/>
+<img
+  src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&hide_border=true"
+  width="96%"
+  alt="GitHub Contribution Activity"
+/>
 
 </div>
 
 ---
 
-## Development Philosophy
+## GitHub Trophies
 
-> Build technology that is intelligent, practical, accessible and capable of producing measurable real-world value.
+<div align="center">
 
-I approach development as a combination of software engineering, experimentation and user-centered problem-solving. My objective is not only to build functioning applications, but to create systems that are maintainable, scalable, efficient and meaningful to the people who use them.
+<img
+  src="https://github-profile-trophy.vercel.app/?username=AshwathNagarajan&no-frame=true&no-bg=true&margin-w=8&row=1"
+  width="96%"
+  alt="GitHub Trophies"
+/>
+
+</div>
 
 ---
 
@@ -528,22 +494,29 @@ I approach development as a combination of software engineering, experimentation
 
 <div align="center">
 
-I am open to collaborating on projects involving artificial intelligence, machine learning, computer vision, NLP, data analytics, full-stack development and educational technology.
-
-<br/><br/>
-
 <a href="mailto:ashwathnagarajan14@gmail.com">
-  <img src="https://img.shields.io/badge/Send%20an%20Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Send Email"/>
+  <img
+    src="https://img.shields.io/badge/Send%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Send Email"
+  />
 </a>
-<a href="https://linkedin.com/in/ashwath-nagarajan">
-  <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/>
+
+<a href="https://www.linkedin.com/in/ashwath-nagarajan">
+  <img
+    src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
 </a>
+
 <a href="https://github.com/AshwathNagarajan">
-  <img src="https://img.shields.io/badge/Follow%20on%20GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="Follow on GitHub"/>
+  <img
+    src="https://img.shields.io/badge/Explore%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white"
+    alt="GitHub Repositories"
+  />
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer" width="100%" alt="Footer"/>
+### Building intelligent, practical and accessible software.
 
 </div>
