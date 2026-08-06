@@ -1,6 +1,8 @@
 <!-- ============================ ELITE ICON-BASED README ============================ -->
 
-<h1 align="center">Ashwath Nagarajan</h1>
+<p align="center">
+  <img src="./assets/profile-banner.svg" alt="Ashwath Nagarajan GitHub Profile Banner" width="100%" />
+</p>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;FARM+Stack+Developer;Offline-First+System+Builder;Building+Technology+for+Impact" />
@@ -153,9 +155,11 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/conference.png"/> Leadership
 
-* Student Project Coordinator
-* Cloud User Group Executive Member
-* NSS Member
+<p align="center">
+  <img src="https://img.shields.io/badge/Coding%20Forum-Secretary%202026--27-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white" />
+  <img src="https://img.shields.io/badge/Student%20Projects-Coordinator%202025--26-00a8cc?style=for-the-badge&logo=target&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloud%20User%20Groups-Executive%20Member%202025--26-6f42c1?style=for-the-badge&logo=googlecloud&logoColor=white" />
+</p>
 
 ---
 
