@@ -2,14 +2,14 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=205&text=Ashwath%20Nagarajan&fontSize=48&fontAlign=50&fontAlignY=41&desc=AI%20and%20Data%20Science%20%7C%20FARM%20Stack-Developer%20%7C%20Creative%20Designer&descAlign=50&descAlignY=63&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:020617,35:312E81,70:7C3AED,100:0EA5E9&amp;text=Ashwath%20Nagarajan&amp;fontColor=FFFFFF&amp;fontSize=54&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=AI%20Engineer%20in%20Progress%20%7C%20Developer%20%7C%20Creative%20Builder&amp;descSize=17&amp;descAlign=50&amp;descAlignY=58&amp;animation=fadeIn"
     width="100%"
     alt="Ashwath Nagarajan"
   />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=00D9FF&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;FARM+Stack+Developer;Offline-First+System+Builder;Building+Technology+for+Impact" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=2800&pause=800&color=7C3AED&center=true&vCenter=true&width=900&lines=AI%2FML+Engineer+in+Progress;FARM+Stack+Developer;Offline-First+System+Builder;Building+Technology+for+Impact" />
 </p>
 
 <p align="center">
