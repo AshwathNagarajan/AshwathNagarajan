@@ -2,7 +2,7 @@
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:020617,35:312E81,70:7C3AED,100:0EA5E9&amp;text=Ashwath%20Nagarajan&amp;fontColor=FFFFFF&amp;fontSize=54&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=AI%20Engineer%20in%20Progress%20%7C%20Developer%20%7C%20Creative%20Builder&amp;descSize=17&amp;descAlign=50&amp;descAlignY=58&amp;animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=250&amp;color=0:020617,35:312E81,70:7C3AED,100:0EA5E9&amp;text=𝔄𝔰𝔥𝔴𝔞𝔱𝔥%20𝔑𝔞𝔤𝔞𝔯𝔞𝔧𝔞𝔫&amp;fontColor=FFFFFF&amp;fontSize=54&amp;fontAlign=50&amp;fontAlignY=38&amp;desc=AI%20Engineer%20in%20Progress%20%7C%20Developer%20%7C%20Creative%20Builder&amp;descSize=17&amp;descAlign=50&amp;descAlignY=58&amp;animation=fadeIn"
     width="100%"
     alt="Ashwath Nagarajan"
   />
