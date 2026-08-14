@@ -151,45 +151,137 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/certificate.png"/> Certifications
 
-* IBM Generative AI
-* NASSCOM Data Processing and Visualization
-* Infosys JavaScript
-
----
-
-## <img src="https://img.icons8.com/ios-filled/24/ffffff/conference.png"/> Leadership
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Coding%20Forum-Secretary%202026--27-1f6feb?style=for-the-badge&logo=githubsponsors&logoColor=white" />
-  <img src="https://img.shields.io/badge/Student%20Projects-Coordinator%202025--26-00a8cc?style=for-the-badge&logo=target&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloud%20User%20Groups-Executive%20Member%202025--26-6f42c1?style=for-the-badge&logo=googlecloud&logoColor=white" />
-</p>
+<table align="center">
+  <tr>
+    <td align="center" width="33%">
+      <img
+        src="https://img.icons8.com/ios-filled/60/4589FF/artificial-intelligence.png"
+        width="52"
+        alt="IBM Generative AI"
+      />
+      <br/><br/>
+      <strong>IBM</strong>
+      <br/>
+      <sub>Generative AI</sub>
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://img.icons8.com/ios-filled/50/ffffff/combo-chart.png"
+        width="48"
+        alt="Data Processing"
+      />
+      <br/><br/>
+      <strong>NASSCOM</strong>
+      <br/>
+      <sub>Data Processing & Visualization</sub>
+    </td>
+    <td align="center" width="33%">
+      <img
+        src="https://cdn.simpleicons.org/javascript/F7DF1E"
+        width="48"
+        alt="JavaScript"
+      />
+      <br/><br/>
+      <strong>Infosys</strong>
+      <br/>
+      <sub>JavaScript</sub>
+    </td>
+  </tr>
+</table>
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/rocket.png"/> Currently Exploring
 
-* Edge AI Optimization
-* FastAPI Systems
-* Scalable AI Deployment
-* Authentication Systems
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Edge%20AI-Optimization-7C3AED?style=for-the-badge&logo=nvidia&logoColor=white"
+    alt="Edge AI Optimization"
+  />
+  <img
+    src="https://img.shields.io/badge/FastAPI-Systems-009688?style=for-the-badge&logo=fastapi&logoColor=white"
+    alt="FastAPI Systems"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://img.shields.io/badge/Scalable%20AI-Deployment-2563EB?style=for-the-badge&logo=docker&logoColor=white"
+    alt="Scalable AI Deployment"
+  />
+  <img
+    src="https://img.shields.io/badge/Authentication-Systems-111827?style=for-the-badge&logo=auth0&logoColor=white"
+    alt="Authentication Systems"
+  />
+</p>
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/combo-chart.png"/> GitHub Analytics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathNagarajan&theme=tokyonight&hide_border=true" height="160"/>
-</p>
+<!-- ===================== LANGUAGE ANALYTICS ===================== -->
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwathNagarajan&theme=tokyonight"/>
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AshwathNagarajan&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8"
+    height="170"
+    alt="Top Languages"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AshwathNagarajan&amp;theme=tokyonight"
+    height="170"
+    alt="Repositories Per Language"
+  />
 </p>
 
+<!-- ===================== DEVELOPMENT ANALYTICS ===================== -->
+
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=AshwathNagarajan&theme=tokyonight"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshwathNagarajan&theme=tokyonight&utcOffset=5.5"/>
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AshwathNagarajan&amp;theme=tokyonight"
+    height="170"
+    alt="Most Used Commit Language"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=AshwathNagarajan&amp;theme=tokyonight&amp;utcOffset=5.5"
+    height="170"
+    alt="Productive Time"
+  />
+</p>
+
+<!-- ===================== CONTRIBUTION STATS ===================== -->
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AshwathNagarajan&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true"
+    height="170"
+    alt="GitHub Statistics"
+  />
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=AshwathNagarajan&amp;theme=tokyonight&amp;hide_border=true"
+    height="170"
+    alt="GitHub Streak"
+  />
+</p>
+
+<!-- ===================== PROFILE CONTRIBUTION HISTORY ===================== -->
+
+<p align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AshwathNagarajan&amp;theme=tokyonight"
+    width="92%"
+    alt="GitHub Contribution Overview"
+  />
+</p>
+
+<!-- ===================== ACTIVITY TREND ===================== -->
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity"
+    width="96%"
+    alt="Contribution Activity Graph"
+  />
 </p>
 
 ---
