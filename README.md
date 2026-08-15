@@ -33,18 +33,23 @@
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/artificial-intelligence.png"/> About
+<h2 align="center">
+  <strong>B.Tech Artificial Intelligence &amp; Data Science <br>Kongu Engineering College · Tamil Nadu, India</strong>
+</h2>
 
-<img align="right" width="260" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif"/>
+Focused on building practical solutions across **Artificial Intelligence, Data Science, Computer Vision, and Full-Stack Development**.
 
-* B.Tech Artificial Intelligence and Data Science
+I enjoy transforming ideas into working systems, experimenting with intelligent applications, and continuously improving them through hands-on development and problem solving.
 
-* Kongu Engineering College
+Currently interested in creating solutions that are **useful, scalable, and impactful**, especially in AI-driven applications and real-world software systems.
 
-* Tamil Nadu, India
-
-* Building AI systems optimized for low-resource environments
-
-* Focused on NLP, backend systems, and performance optimization
+<br/>
+<div align="center">
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-Exploring-111827?style=flat-square"/>
+<img src="https://img.shields.io/badge/Data%20Science-Analyzing-1F2937?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-Building-374151?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full%20Stack-Creating-4B5563?style=flat-square"/>
+</div>
 
 <br clear="right"/>
 
@@ -301,5 +306,18 @@
 </p>
 
 ---
+<h3 align="center">
+  Open to Internships • AI/ML • Full Stack • Research
+</h3>
 
-<h3 align="center">Open to Internships • AI/ML • Full Stack • Research</h3>
+<p align="center">
+  <strong>Building technology that creates meaningful impact.</strong>
+</p>
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=150&amp;color=0:0EA5E9,35:7C3AED,70:312E81,100:020617&amp;section=footer"
+    width="100%"
+    alt="Footer Banner"
+  />
+</p>
