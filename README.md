@@ -316,8 +316,8 @@ Currently interested in creating solutions that are **useful, scalable, and impa
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&amp;height=150&amp;color=0:0EA5E9,35:7C3AED,70:312E81,100:020617&amp;section=footer"
+    src="https://capsule-render.vercel.app/api?type=waving&amp;height=170&amp;color=0:0EA5E9,35:7C3AED,70:312E81,100:020617&amp;section=footer&amp;text=Thanks%20for%20visiting!&amp;fontColor=FFFFFF&amp;fontSize=28&amp;fontAlign=50&amp;fontAlignY=72&amp;animation=fadeIn"
     width="100%"
-    alt="Footer Banner"
+    alt="Thanks for visiting"
   />
 </p>
