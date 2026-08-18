@@ -147,10 +147,17 @@ Currently interested in creating solutions that are **useful, scalable, and impa
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/prize.png"/> Achievements
 
-* 1st Prize — Hybrid Coding Streak
-* Runner Up — Thinkathon 2K26
-* Runner Up — Eareyse 2K26
-* SIH Finalist / Waitlist
+<p align="center">
+
+<img src="https://img.shields.io/badge/🏆_Hybrid_Coding_Streak-1st_Prize-gold?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🥈_Thinkathon_2K26-Runner_Up-silver?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🥈_Eareyse_2K26-Runner_Up-silver?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/🚀_SIH-Pre_Finalist-blue?style=for-the-badge"/>
+
+</p>
 
 ---
 
