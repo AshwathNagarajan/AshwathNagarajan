@@ -279,16 +279,6 @@ Currently interested in creating solutions that are **useful, scalable, and impa
   />
 </p>
 
-<!-- ===================== ACTIVITY TREND ===================== -->
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=AshwathNagarajan&amp;theme=tokyo-night&amp;hide_border=true&amp;area=true&amp;custom_title=Contribution%20Activity"
-    width="96%"
-    alt="Contribution Activity Graph"
-  />
-</p>
-
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/activity-history.png"/> Activity
