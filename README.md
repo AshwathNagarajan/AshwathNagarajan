@@ -72,7 +72,7 @@ Currently interested in creating solutions that are **useful, scalable, and impa
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,java,c,r,javascript" />
+<img src="https://skillicons.dev/icons?i=python,java,c,r" />
 
 ### Frontend
 
