@@ -98,50 +98,127 @@ Currently interested in creating solutions that are **useful, scalable, and impa
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/briefcase.png"/> Experience
 
-### Frontend Intern — Pranav Techy
+## <img src="https://img.icons8.com/ios-filled/24/ffffff/briefcase.png"/> Experience
 
-**January 2026 – March 2026 · Remote**
+<div align="left">
 
-* Engineered a responsive React.js application using Vite
-* Built 15+ reusable and modular UI components
-* Improved development speed using Hot Module Replacement
-* Maintained code quality and consistency using ESLint
-* Optimized performance using SWC/Babel-based React plugins
+<h3>
+  <img src="https://img.icons8.com/ios-filled/22/7C3AED/code.png"/>
+  Frontend Intern — Pranav Techy
+</h3>
 
-### MERN Stack Developer — Tekriq Technologies
+<strong>January 2026 – March 2026 · Remote</strong>
 
-**April 2026 – July 2026 · Remote**
+<br/>
 
-* Developed a responsive interior design website using the MERN stack
-* Built separate public-facing and administrative interfaces
-* Developed backend services using Node.js and Express.js
-* Integrated MongoDB for content, projects, enquiries, and administrative data
-* Added SMTP-based customer enquiry emails and a Groq-powered chatbot
+<img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+<img src="https://img.shields.io/badge/Vite-Development-646CFF?style=flat-square&logo=vite&logoColor=white"/>
+<br/>
+
+• Engineered a responsive React.js application using Vite  
+• Built <strong>15+ reusable and modular UI components</strong>  
+• Improved development speed using Hot Module Replacement  
+• Maintained code quality and consistency using ESLint  
+• Optimized performance using SWC/Babel-based React plugins  
+
+</div>
+
+<br/>
+
+<div align="left">
+
+<h3>
+  <img src="https://img.icons8.com/ios-filled/22/0EA5E9/web.png"/>
+  MERN Stack Developer — Tekriq Technologies
+</h3>
+
+<strong>April 2026 – August 2026 · Remote</strong>
+
+<br/>
+
+<img src="https://img.shields.io/badge/MERN-Stack-3FA037?style=flat-square&logo=mongodb&logoColor=white"/>
+<img src="https://img.shields.io/badge/Node.js-Backend-339933?style=flat-square&logo=node.js&logoColor=white"/>
+<img src="https://img.shields.io/badge/Express.js-API-000000?style=flat-square&logo=express&logoColor=white"/>
+<img src="https://img.shields.io/badge/MongoDB-Database-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+<br/>
+
+• Developed a responsive interior design website using the MERN stack  
+• Built separate <strong>public-facing and administrative interfaces</strong>  
+• Developed backend services using Node.js and Express.js  
+• Integrated MongoDB for content, projects, enquiries, and administrative data  
+• Added SMTP-based customer enquiry emails and a <strong>Groq-powered chatbot</strong>  
+
+</div>
 
 ---
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/light-on.png"/> Projects
 
-### Cattle Breed Prediction System
+### <img src="https://img.icons8.com/ios-filled/22/7C3AED/artificial-intelligence.png"/> Cattle Breed Prediction System
 
-* Built an AI web application for cattle breed detection using YOLOv8
-* Developed a FastAPI and PostgreSQL backend with Ollama integration
-* Created a scalable frontend architecture using React.js
-* **Tech Stack:** YOLOv8, FastAPI, PostgreSQL, React.js, Ollama
+<p>
+  <img src="https://skillicons.dev/icons?i=python,fastapi,postgresql,react" height="42"/>
+</p>
 
-### Smart AI Notes Summarizer
+Built an AI-powered web application for **cattle breed detection using YOLOv8**, combining computer vision with a scalable web architecture.
 
-* Built an offline NLP-based notes summarization system
-* Implemented lightweight models for secure and efficient processing
-* Added quiz generation and multimedia learning features
-* **Tech Stack:** React.js, FastAPI, NLP, Python, JavaScript
+- Developed breed detection using **YOLOv8**
+- Built a **FastAPI + PostgreSQL** backend
+- Integrated **Ollama** for AI-powered processing
+- Created a scalable frontend architecture using **React.js**
 
-### Gamified Learning Platform
+<p>
+  <img src="https://img.shields.io/badge/YOLOv8-Computer%20Vision-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PostgreSQL-Database-4169E1?style=flat-square&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Ollama-LLM-111827?style=flat-square"/>
+</p>
 
-* Designed an offline gamified learning platform for rural education
-* Optimized the application for low-spec devices and poor connectivity
-* Focused on accessibility, performance, and learner engagement
-* **Tech Stack:** JavaScript, HTML, CSS, SVG, Offline-first Design
+---
+
+### <img src="https://img.icons8.com/ios-filled/22/0EA5E9/document.png"/> Smart AI Notes Summarizer
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,python,javascript" height="42"/>
+</p>
+
+Built an **offline NLP-based learning system** designed to summarize notes while supporting interactive learning features.
+
+- Implemented lightweight NLP models for **secure and efficient local processing**
+- Built automated **notes summarization**
+- Added **quiz generation** capabilities
+- Integrated **multimedia learning features**
+- Designed the system with an **offline-first approach**
+
+<p>
+  <img src="https://img.shields.io/badge/NLP-Text%20Processing-7C3AED?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Offline%20AI-Local%20Processing-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/FastAPI-Backend-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React.js-Frontend-61DAFB?style=flat-square&logo=react&logoColor=black"/>
+</p>
+
+---
+
+### <img src="https://img.icons8.com/ios-filled/22/16A34A/controller.png"/> Gamified Learning Platform
+
+<p>
+  <img src="https://skillicons.dev/icons?i=javascript,html,css" height="42"/>
+</p>
+
+Designed an **offline-first gamified learning platform** focused on improving access to digital education in low-resource environments.
+
+- Built for **rural education environments**
+- Optimized for **low-spec devices**
+- Designed to function under **poor connectivity**
+- Focused on accessibility and performance
+- Incorporated gamification to improve **learner engagement**
+
+<p>
+  <img src="https://img.shields.io/badge/Offline--First-Architecture-111827?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Gamified-Learning-16A34A?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Low--Spec-Optimized-374151?style=flat-square"/>
+  <img src="https://img.shields.io/badge/SVG-Graphics-F97316?style=flat-square"/>
+</p>
 
 ---
 
