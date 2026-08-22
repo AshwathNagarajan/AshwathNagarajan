@@ -34,7 +34,7 @@
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/artificial-intelligence.png"/> About
 <h2 align="center">
-  <strong>B.Tech Artificial Intelligence &amp; Data Science <br>Kongu Engineering College · Tamil Nadu, India</strong>
+  <strong>Bachelors of Technology <br/>Artificial Intelligence &amp; Data Science <br>Kongu Engineering College · Tamil Nadu, India</strong>
 </h2>
 
 Focused on building practical solutions across **Artificial Intelligence, Data Science, Computer Vision, and Full-Stack Development**.
