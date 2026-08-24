@@ -98,8 +98,6 @@ Currently interested in creating solutions that are **useful, scalable, and impa
 
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/briefcase.png"/> Experience
 
-## <img src="https://img.icons8.com/ios-filled/24/ffffff/briefcase.png"/> Experience
-
 <div align="left">
 
 <h3>
