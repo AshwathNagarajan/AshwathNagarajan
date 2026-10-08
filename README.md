@@ -362,7 +362,7 @@ Designed an **offline-first gamified learning platform** focused on improving ac
 </p>
 
 ---
-
+<!--
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/activity-history.png"/> Activity
 
 <p align="center">
@@ -370,7 +370,7 @@ Designed an **offline-first gamified learning platform** focused on improving ac
 </p>
 
 ---
-
+-->
 ## <img src="https://img.icons8.com/ios-filled/24/ffffff/code.png"/> LeetCode
 
 <p align="center">
